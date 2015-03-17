@@ -1,0 +1,8 @@
+Package: phyloseqD3
+Title: Plot phyloseq objects using D3
+Version: 0.0
+Authors@R: person("Kris", "Sankaran", , "kriss1@stanford.edu", role = c("aut", "cre"))
+Description: Interactively explore phyloseq trees.
+Depends: R (>= 3.1.2)
+License: GPL-2
+LazyData: true
